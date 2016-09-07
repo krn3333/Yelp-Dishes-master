@@ -1,0 +1,100 @@
+4154344634	182	52	Kim Bap	8	neu
+2123741312	6	143	CHINESE	-1	-1
+4159211453	61	122	Dry Fried Pork	-2	-1
+3236633104	758	5	Tom	-2	-1
+4156829980	160	424	House	-2	-1
+4154312526	48	27	Thai	-1	-1
+6175239026	566	513	Frutti Di Mare	15	pos
+4159339900	488	78	Sweet Spicy Noodle	-2	-1
+6172273434	143	389	Panna Cotta	19	pos
+4159044100	673	11	Laura	-1	-1
+2155920363	160	502	Ropa Vieja	34	pos
+2129669229	44	327	Sicilian	94	neu
+3105529988	62	194	Green Mango and Papaya	21	pos
+6175667344	160	762	Black Bean Chicken	20	neu
+2126204020	213	252	Virgin	-1	-1
+4154312526	90	700	Red Curry	32	pos
+6175423456	55	10	Seared Pork Medallions	86	pos
+6176952257	46	527	French Fries	37	pos
+2026217636	80	923	Insalata Mista	6	pos
+3236633104	263	236	Kua Kling	-2	-1
+4153872244	139	827	Chili Cheese Fries	-2	-1
+3105583168	824	0	Garlic Chicken	-2	-1
+4159898218	96	152	Teriyaki Chicken	75	neu
+6173500010	105	420	Citron Blanc	-2	-1
+2126941777	427	334	Fried Green Tomatoes	44	pos
+4159229179	66	66	Feng Shui	-1	-1
+4157518211	127	217	Clay Pot	68	pos
+3105529988	160	552	Green Curry	28	neg
+4152528220	33	230	Santa Fe	-2	-1
+4154343754	62	1130	Frings	36	pos
+6177280728	85	750	Blueberry Basil Martini	29	neu
+2124731620	43	1179	Thai Iced Tea	92	pos
+2126759463	58	16	French	-1	-1
+7735282883	15	531	Cuban Style Chicken	14	pos
+4153872244	316	568	Strawberry	77	pos
+6175367200	21	500	Lacquered Foie Gras	33	pos
+2023477700	3	159	Chicken Masala	-2	-1
+4157317077	640	1055	Miso Marinated Black Cod Served	55	neu
+2128239500	51	1131	Jumbo Lump Crab Cakes	5	pos
+2129244466	500	1047	Nonna Maria	9	pos
+4156731888	158	585	Prime Rib	22	neu
+2028228783	288	544	Ahi Tuna Spicy Salad	12	neu
+2122286091	6	2234	Bacon	-2	-1
+2023197773	19	480	Saraceno	52	pos
+2126759463	155	651	Swiss	68	neu
+4153978470	47	404	Indian	-1	-1
+3236633104	684	513	Southern Thai	-1	-1
+4155437673	620	524	Linguine Frutti di Mare	32	neu
+4157754216	949	143	Buffalo Stew	25	pos
+2127411732	2	370	Royal Siam Thai Cuisine	-1	-1
+4155437673	217	365	Alfredo	48	neu
+4159339900	82	1110	Burmese Vegetarian Noodles	9	pos
+2124906650	150	464	New England Clam Chowder	24	pos
+7735257479	29	144	Mongolian Chicken	185	neg
+4155631927	49	77	Vegetarian	-2	-1
+2122818360	1	76	Dominican	-1	-1
+7732525687	782	27	Costa Rican Restaurant	-1	-1
+4152527825	535	302	Cha-Ya Roll	12	neu
+4156731888	940	81	Deep Fried Mushrooms	10	neu
+2127720752	3	0	Liberta	-1	-1
+7735282883	391	6	Cuban	-1	-1
+4153590075	279	152	Monsieur	11	pos
+2126621144	46	10	Brioche French Toast	50	neu
+2126741702	66	426	Caramel Creme	133	pos
+4154952266	99	34	Burger Bistro	-1	-1
+7735282883	70	462	Cuban Roast Pork	22	pos
+7735613780	212	83	Carne Asada	11	pos
+4157754216	922	361	Brisket	4	neu
+3105529988	34	630	Vietnamese	-1	-1
+2155457005	607	257	Thai Curry	26	pos
+2126204020	80	3105	MUSCOVY DUCK	8	pos
+2128077400	574	1300	Green Chile Hollandaise	-2	-1
+4157713100	305	1001	Salvador Dali	18	pos
+4152527825	475	457	Agedashi Tofu	58	pos
+2126755885	98	305	Carmine	-1	-1
+2028228783	533	782	Red Velvet Cake	85	neu
+6177203663	115	1691	Tony	-1	-1
+4159339900	524	52	Burmese	-1	-1
+4153481514	64	55	Mexican Daredevil	9	pos
+2155467100	143	158	Mexican	-1	-1
+2126734610	30	422	Pad Kee Mow	-2	-1
+4158340344	374	501	Hijiki and Soybean Salad	6	neu
+6175239026	668	444	Giacomo Sauce	-2	-1
+2028228783	830	228	New	-1	-1
+4158313663	215	334	Curry	-2	-1
+2123390090	19	2195	Naan	-2	-1
+4156731888	882	581	Caesar	12	pos
+2023477700	0	108	Chicken Tikka	41	neu
+4157317077	133	365	Miso Marinated Black Cod	55	pos
+4157713100	143	272	Pesto Picasso	16	pos
+4159312777	41	80	Roasted Chicken Salad	-2	-1
+6177831268	37	1813	Spicy Crispy Tuna Maki	74	neu
+3102899910	364	175	Real Food Meal	89	pos
+6174594521	45	774	Chicken Tandoori	80	neg
+2125798751	55	525	Etli Yaprak Sarmasi	28	neu
+6173697075	151	751	Polvorosa de Pollo	24	pos
+4157315515	35	17	Eight Immortals	-1	-1
+2023423535	42	116	BBQ	-2	-1
+2156279000	20	293	Penne Alla Vodka	21	pos
+2129655366	46	232	Rice	-2	-1

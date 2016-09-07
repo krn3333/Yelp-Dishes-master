@@ -1,0 +1,100 @@
+4159044100	653	347	American	-1	-1
+4159044100	673	11	Laura	-1	-1
+4159044100	683	738	Charcuterie	8	pos
+2126759463	6	143	French	-1	-1
+2126759463	12	121	La Salade Nicoise	0	pos
+2126759463	13	369	Risotto de La Mer	49	neu
+2126759463	24	220	Grand Marnier	-1	-1
+2126759463	43	1607	Coq	43	pos
+2126759463	57	714	Coq au Vin	43	pos
+2126759463	67	6	Ratatouille	-1	-1
+2126759463	70	626	Monsieur	-1	-1
+2126759463	85	372	Filet de Bar	-2	-1
+2126759463	86	919	Pastis	-1	-1
+2126759463	95	308	Oeufs Nordique	25	neu
+2126759463	155	651	Swiss	-2	-1
+6175231020	3	507	Peanut Butter Cup Perfection	70	pos
+2126668825	10	114	Pate	-2	-1
+4158616111	8	136	Middle Eastern	-1	-1
+4158616111	44	271	Veggie Tabsi Falafel	27	neu
+4158616111	44	321	Garlic Tandoori	32	neu
+4155432788	18	465	Chinese	-1	-1
+4155432788	19	813	Soft Chow Mein	92	neu
+4155432788	19	885	Crispy Pork Chop	106	neu
+4155432788	29	33	Cashew Chicken	23	neu
+4155432788	29	57	Orange Chicken	138	neu
+4155432788	34	291	Wor Won Ton	17	pos
+4155432788	50	160	Chicken Lettuce	108	neu
+4155432788	60	143	Won Ton Soup	17	pos
+2122659700	16	820	Bourbon	-2	-1
+2122659700	26	1211	Lobster Club	15	neu
+2122659700	38	173	Kentucky Hot Brown	9	neu
+2122659700	59	1290	New York Times	-1	-1
+2122659700	60	366	Filet Mignon	80	neu
+2122659700	107	554	Lobster-Avocado	0	neu
+2122659700	107	1223	Deep Dish Chocolate Pie	59	pos
+2122659700	163	48	Bar American	-1	-1
+2122659700	182	334	Apple	4	neu
+2122659700	194	919	Smoked Chicken	12	neu
+2122659700	213	1601	Red Velvet Brownie	30	neu
+2122659700	213	1628	Deep Dish Chocolate Cream Pie	59	neu
+2122659700	242	105	Spicy Tuna Tartar	7	neu
+2122659700	273	1185	Red Velvet Brownie Sundae	30	pos
+2122659700	283	203	Lamb	-2	-1
+2122659700	291	2287	Smoked Chicken Pot Pie	12	pos
+2122659700	311	122	Southwestern	-1	-1
+2122659700	381	856	Kentucky Brown	9	neu
+2122659700	407	178	Red Velvet Cake	-2	-1
+2122659700	419	1873	Steak	-2	-1
+2122659700	430	1128	New England Clam	3	pos
+2122659700	445	174	Vidalia Onion Soup	5	neg
+2122659700	459	709	Brown	9	neu
+2122659700	459	705	Hot Brown	9	neu
+4152551600	14	309	Buffalo Wings	4	neu
+4152551600	15	501	Margarita	69	pos
+4152551600	69	214	San Franciscan	57	neu
+4152551600	79	525	Dolores	53	pos
+4152551600	81	588	Valencia	-1	-1
+4152551600	95	676	Bacon	-1	-1
+4152551600	199	274	Tom Terrific	85	pos
+2123273869	0	423	Waffle Cone	-2	-1
+2026371222	17	593	Gulab Jamun	3	neg
+2026371222	68	1305	Grand Menu	1	neu
+2026371222	313	3180	Cardamon Ice Cream	4	neu
+2126775915	0	84	Tomato Confit and Honey Mustard Sauce on Roll	-2	-1
+2126775915	0	161	Swiss Cheese	24	neg
+4157524447	71	451	Rice Cake Dumpling Soup	48	pos
+4157524447	118	62	BBQ	-1	-1
+4157524447	216	159	Beef Rice Bowl	41	neu
+4157524447	275	177	Spicy Beef Soup	46	pos
+4157524447	357	602	Spicy Pork Bulgogi	8	neu
+4157524447	360	617	Rice	-2	-1
+4157524447	529	381	House	-2	-1
+2123445000	0	27	Signature Salad	-2	-1
+4155525559	2	58	Thai	113	pos
+4155525559	9	422	Chocolate Caramel Tartlet	-2	-1
+4155525559	13	183	Fresh Choice Salad Buffet	-1	-1
+4155525559	39	959	Thai Chicken	113	pos
+4155525559	54	355	Vegetarian	-1	-1
+4155525559	59	89	Triple Chocolate Mousse Cake	57	neu
+4155525559	72	470	Tuna Nicoise	69	pos
+4155525559	76	327	Triple Chocolate Mousse	57	neu
+4155525559	348	182	Delessio in Hayes	-1	-1
+4155525559	389	138	Triple Chocolate Tower Cake	53	pos
+2023872272	1	15	Mexican	-1	-1
+2023872272	15	2007	Huitlacoche Ravioli	5	pos
+2023872272	15	2712	Queso de Cabra	15	pos
+2023872272	22	571	Sopa del Dia	13	neu
+2023872272	29	407	Ravioli de Huitlacoche	5	neu
+2023872272	30	1227	Enchiladas Camaron Y Queso	15	pos
+2023872272	37	538	Mole Sauce	-1	-1
+2023872272	47	953	Rellenitos De Platano Macho	6	neu
+2023872272	47	1251	Enchiladas De Camaron Y Queso De Cabra	15	neu
+2023872272	56	1349	Mole Verde Con Costillas de Puerco	22	neu
+2023872272	87	925	Panuchos de Pulpo	2	pos
+2023872272	87	962	Queso Fundido con Chorizo	3	pos
+2023872272	93	445	Mole Verde	22	pos
+2023872272	94	929	Negro	21	neu
+2023872272	102	803	Churros Con Cajeta	37	neu
+2023872272	125	687	Pollo Relleno	16	neu
+2023872272	184	710	Costillas de Puerco	22	neu

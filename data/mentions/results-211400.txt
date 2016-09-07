@@ -1,0 +1,100 @@
+2026294355	43	150	BBQ Thai Chicken	30	neu
+7735282883	561	1174	Ropa Vieja	23	neu
+2129896688	49	458	American	-1	-1
+3105529988	526	302	Thai	25	neu
+4157518211	27	376	Imperial Rolls	124	pos
+2129244466	193	121	Nona	-1	-1
+2124738888	61	534	Calamari	10	neu
+4159315541	498	686	Chicken Tandoori	38	neu
+2129244466	429	76	Nonna Maria	9	neu
+2126731300	343	738	Geso Isobe	99	neu
+3236633104	43	191	Spicy Sugar Brown Chicken	195	neu
+2122532773	104	304	Jamon	2	neu
+2155457005	466	389	Thai Red Curry Mussels	27	neu
+3105529988	583	4297	Caramelized Banana Custard Cake	60	pos
+4154749332	87	0	MSB	92	neu
+4156262260	180	680	Green Curry Scallops	12	neu
+2023330137	16	601	Mexican	24	neg
+4153696166	126	91	Sake	13	neu
+3239355877	130	336	Chinese Chicken Salad	30	neu
+2129299460	68	802	Loup de Mer	10	neu
+2129642525	199	331	Black Truffle Dashi	8	neu
+6172273320	6	211	Coconut Chicken	42	neu
+2127792828	12	650	Mango Chicken	39	neu
+7732780900	130	676	Asado	14	neu
+2023423535	63	362	Mahi-Mahi	11	neu
+2155457005	572	754	Curry	27	neu
+7739890818	21	454	Tom Yum	22	neu
+2157014883	69	312	Pineapple Jalapeno Margarita	18	neu
+4153378537	106	186	CP	-2	-1
+4156262260	180	640	Pan Fried Pho	15	neu
+3105583168	215	14	Famoso Pollo Versailles	18	neu
+3236633104	258	76	Southern	90	neu
+4157713100	171	811	Dali	-1	-1
+4158313663	203	1489	Yellow Curry Chicken	35	neu
+2022187575	38	121	Bacon	25	neu
+4156482958	83	168	Puerto Rican	21	neu
+7732355538	29	46	Carne Asada	29	neu
+6175239026	20	1130	Frutti Di Mare	15	neu
+3102899910	522	0	Real Food Meal	89	neu
+4158340344	537	242	Wasabi Garlic Potato Salad	7	neu
+2132738945	3	1100	Ceviche de Camarones	0	neu
+2126941777	809	829	Creole Potato Salad	30	neu
+4159339900	625	124	Salmon Curry Pot Pie	0	neu
+2132738945	143	102	Llapingacho	16	neu
+3102899910	432	137	Reuben	-2	-1
+2023339180	185	65	Old Ebbitt Grill	-1	-1
+6175367200	40	354	Japanese Octopus	5	neu
+4153872244	307	136	Caesar	152	neu
+2126204020	80	3105	MUSCOVY DUCK	8	neu
+2027227475	18	265	Swedish	18	neu
+2028228783	413	78	Yankee	64	neu
+4153623689	82	54	Curry Chicken Pho	91	neu
+4152219811	20	223	No Name	-2	-1
+2028332888	84	1939	Chinese	-1	-1
+2028332888	61	615	Orange Chicken	28	neu
+2129642525	90	792	Serrano Ham	1	neu
+2028332888	74	122	Tso	27	neu
+4159228424	3	1186	Thai Thai	23	neu
+2155082120	38	201	Chicken Tikka Masala	84	neu
+4153453900	891	847	Black Bean Torte	5	neu
+3236633104	54	167	Khao Yam Songkhla	287	neu
+3105583168	653	426	Lechon Asado	13	neu
+3236556566	613	20	Coq au Vin	14	neu
+3236633104	804	1167	Southern Thai	161	neu
+2126757802	49	605	Black Olive Twist	26	neu
+4157317077	156	184	Albacore Tuna Hotategai	25	neu
+4159312777	306	409	Swiss	29	neu
+4159044100	673	11	Laura	-1	-1
+4159213039	68	1197	APPLE	14	neu
+3236587851	25	101	Fried Chicken	18	neu
+4159228424	65	374	Rice	51	neu
+3123772002	481	234	Iberico	-2	-1
+4157713100	50	808	Salvador Dali	19	neu
+6175365723	151	115	Zuppa di Pesce	57	neu
+4153627733	127	926	Prime Rib	-2	-1
+4156482958	60	438	Yuca Con Mojo	40	neu
+2155920363	82	4	Cuban	41	neu
+4152527825	160	4	Haru Maki	61	neu
+2126742071	16	834	Shrimp Fajitas	27	neu
+2126862055	26	291	Spicy Salmon Roll	66	pos
+4154344634	182	52	Kim Bap	8	neu
+4153459947	62	1403	Kabob	9	neu
+4158340344	335	2443	Hijiki and Soybean Salad	6	neu
+2123881997	10	135	Rosemary Chicken Salad	49	neu
+6175679539	33	511	Lamb	51	neu
+3105529988	213	1265	Banana Custard Cake	60	neu
+2022325431	2	655	Taouk	23	neu
+4159339900	172	420	Burmese	9	neu
+2674605744	21	14	Sour Chicken	119	neu
+4156262260	116	39	Pho	15	neu
+2138910900	1	1976	Peruvian Bay	30	neu
+2156277666	41	91	Wonton Soup	139	neu
+2125336212	37	600	Buttermilk Fried Chicken	9	neu
+4152527825	292	301	Tofu Custard	65	neu
+4152825872	115	16	Cardinale	11	neu
+7735613780	211	992	Dorado Nachos	0	neu
+2124770777	333	767	Potato Puree	24	neu
+4159229179	66	317	Kung	23	neu
+4157713100	40	265	Vincent Van Dough	13	pos
+3105583168	76	392	Camarones Enchilados	42	neu

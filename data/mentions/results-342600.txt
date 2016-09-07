@@ -1,0 +1,100 @@
+7738783487	28	84	Thai	-1	-1
+4159315541	134	301	Rice	42	neu
+4157713100	3	94	Popeye	14	pos
+6172676336	4	382	French Onion Soup	79	pos
+2155920363	61	199	Cuban	-1	-1
+2123077934	225	32	Blackened Chicken	101	neu
+6175239026	135	398	Caesar	-2	-1
+4157538788	5	208	Five Spice Chicken	47	neu
+2155467100	201	870	Carne Asada	11	pos
+4153623689	149	568	Vietnamese	-1	-1
+2028228783	1444	1257	Southern Fried Chicken	11	neu
+2126734610	45	457	Green Curry	-2	-1
+3105583168	778	194	Versailles Garlic Chicken	18	pos
+2126204020	243	598	Maine Lobster Tails	13	pos
+2026382233	58	104	Honey Lime Burrito Bowl	-2	-1
+2026282222	154	729	Hickory Burger	35	neu
+2128077400	625	547	Mahi Mahi	15	pos
+2123881997	16	1000	Cajun Chicken	103	neu
+7739890818	34	929	Thai Custard	57	pos
+2155457005	110	320	Curry	26	neu
+3105583168	188	360	Chuletas de Puerco	16	pos
+4156829980	211	167	House	-2	-1
+3105529988	493	1378	Thai Noodles	25	neu
+4159217600	64	558	Ahi	7	neu
+4158313663	88	2253	Yellow Curry Chicken	62	pos
+4156261628	278	323	Aloo Gobhi	52	pos
+3236633104	286	853	Southern	-2	-1
+2126897500	15	99	Insalata Siciliana	11	neu
+7735282883	90	75	Cuban Style Chicken	14	pos
+3102899910	482	487	Real Food Meal	89	pos
+4157511283	97	238	Sour Soup	150	pos
+2022325030	1	234	Chicken Tikka Masala	43	neu
+4159312777	364	905	Grilled Chicken	23	neu
+4153627733	65	1197	Ferrari Carano	-2	-1
+3105529988	643	530	Thai Coconut Chicken Soup	19	pos
+3234645505	33	194	Baja Burrito	11	neu
+2023335545	86	26	Lemon Grass Grill	-1	-1
+3102899910	491	121	Reuben	79	neg
+2122659700	369	803	Kentucky Hot Brown	9	pos
+2028332888	135	450	Tso	27	pos
+4157518211	13	1020	Imperial Rolls	39	pos
+2122659700	213	1601	Red Velvet Brownie	30	neu
+2126204020	361	1529	Grilled New York Steak	20	neu
+6175747100	21	2206	Boston Cream Pie	47	pos
+2128077400	353	1138	New Mexican Spice Rubbed Pork Tenderloin	13	neu
+4159339900	625	124	Salmon Curry Pot Pie	0	pos
+4156688070	2	136	Pepper Chicken	-2	-1
+3127829855	548	118	Lamb	-2	-1
+2125798751	6	35	Etli Yaprak Sarmasi	28	neu
+2126757802	24	490	Red	-1	-1
+2122431400	45	82	French	-1	-1
+4152825872	9	432	Romano	-1	-1
+4159339900	118	435	Thai Salmon Pot Pie	0	pos
+2129244466	463	10	Nona Maria	18	pos
+7732525687	832	395	Costa Rican Rice	-2	-1
+2155635008	51	127	Bell	-1	-1
+6172477747	100	54	Italian	-1	-1
+2028228783	1511	491	Southern Pan-Fried Chicken	68	pos
+4157711168	70	336	Naked Roll	35	pos
+3105583168	197	117	Garlic Chicken	18	neu
+2155457005	59	0	Monks	-1	-1
+6175231020	3	507	Peanut Butter Cup Perfection	70	pos
+2125017014	100	16	Gnocchi	27	pos
+3236633104	505	692	Tom Kha	30	neu
+2154132290	68	477	Wonton	31	pos
+3236633104	459	72	Southern Thai	-1	-1
+7735257479	43	88	American	-1	-1
+2023872272	50	317	Ravioli de Huitlacoche	5	pos
+3105529988	16	769	Chicken Coconut Soup	19	pos
+2128077400	492	1364	Sixteen Spice Chicken	14	pos
+9179343242	54	433	Pizza Anna	67	pos
+2022325431	117	490	Bamia Bil Lameh	32	pos
+2028332888	61	94	Chinese	-1	-1
+4157317077	618	486	Sake	-2	-1
+3123772002	598	1213	Bacon	-1	-1
+3236556566	546	615	Prime Kansas City Steak	23	neu
+4156262260	18	491	Pho Ga	8	pos
+2122421900	20	495	Indian	-1	-1
+4153878561	50	349	Honey Walnut Roll	36	pos
+4157754216	1073	158	Joe	31	pos
+3105583168	788	48	Ropa Vieja	29	pos
+2153821330	5	162	Spanish Fries	7	pos
+2155457005	637	391	Flemish Sour Ale	16	pos
+2126941777	916	24	Dino BBQ	-1	-1
+7732525687	814	725	Costa Rican Black Bean Rice	-2	-1
+4153488788	77	167	Burger Bistro	-1	-1
+2128077400	179	1487	Cornmeal Crusted Chile Relleno	21	pos
+2126866667	7	275	Fried Chicken	277	neu
+3105529988	229	923	Blood Orange Sangria	74	neu
+4152527825	398	574	Cha-Ya Roll	12	pos
+2126941777	784	343	Tres Hombres	-2	-1
+6175780089	58	110	Thai Iced Tea	111	neu
+4157315515	69	0	Eight Immortals	-1	-1
+7732894991	140	237	Mexicana	-1	-1
+7732525687	295	194	Lizano	-2	-1
+4154344634	450	1166	Kim Bap	8	pos
+2159851838	40	10	Aki Sushi	-1	-1
+2028228783	202	547	Fried Green Tomatoes	35	pos
+2125817100	118	1327	RTR	-1	-1
+2126862055	30	580	Greenly Green Roll	45	pos

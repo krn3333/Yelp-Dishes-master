@@ -1,0 +1,100 @@
+3239355877	20	19	Chinese Chicken	30	pos
+4158340344	394	387	Green Tea	1	pos
+2124731620	41	446	Thai	-1	-1
+4156731888	199	190	House	-1	-1
+3127829855	571	332	Calamari	5	neu
+3236633104	242	824	Sour Soup	-2	-1
+2124731620	18	225	Tom Kha	21	neu
+4158340344	415	357	Hijiki Salad	6	pos
+4155432788	60	143	Won Ton Soup	9	pos
+2126941777	478	187	Cuban	71	pos
+4156150916	172	427	Irish	-1	-1
+2022325431	88	248	Taboullah	25	neu
+3236633104	57	145	Curry	1	pos
+6172477747	325	1024	Apple Wood Smoked Bacon	27	neg
+4157754216	1459	86	Buffalo Stew	25	neu
+2123632333	10	223	Tandoori Chicken Pita	15	neu
+4157754216	925	0	Sloppy Joe	-2	-1
+4158293634	72	337	Blueberry Bread Pudding	51	neu
+4155630307	34	861	Swiss	0	neu
+4155631927	7	179	Imperial Roll	21	pos
+2155920363	129	465	Vaca Frita con Maduros	37	neu
+4159339900	359	2655	Thai Salmon Green Curry Pot Pie	0	pos
+4153878561	50	349	Honey Walnut Roll	36	pos
+7735613780	211	992	Dorado Nachos	0	pos
+4157515175	124	186	Rice	0	pos
+2128077400	612	1404	Blue Corn Tortilla Chips	2	pos
+2125817100	86	894	RTR	-1	-1
+4155432788	18	465	Chinese	-1	-1
+4157315515	128	918	English	-1	-1
+2138910900	19	338	Water Grill Clam Chowder Weiser Farm	3	pos
+3236633104	369	0	Boba Thai	8	neu
+4158340344	535	14	Japanese	-1	-1
+2155457005	31	508	Ghent	18	neu
+2123088281	16	2162	Agra Royal Dinner	85	pos
+2124731620	22	297	Why Curry Shrimp	45	pos
+4157713100	175	339	Caesar	22	pos
+2153821330	35	125	Spanish Fries	7	pos
+2129293189	53	331	Garlic Soup	14	pos
+4159312777	162	4	Plant Burger	-2	-1
+2155457005	58	194	Flemish Sour Ale	3	pos
+4158616111	37	806	Middle Eastern	-1	-1
+3236556566	46	946	Apple	11	neu
+6174455403	31	47	Dominican	-1	-1
+3236556566	426	430	Crab Deviled Egg	0	neu
+6175423456	75	3241	Italian Sausage	43	neu
+7733344438	4	203	Orange Chicken	241	pos
+2125336966	368	199	Japanese Yam	16	pos
+4156731888	941	665	Foie Gras	25	pos
+3105529988	413	1071	Nyonya Sambal Eggplant	51	pos
+2028228783	597	1042	Green Goddess Dressing	26	neu
+6172473399	41	415	Chinese Broccoli	24	pos
+3105529988	34	622	Indian	-1	-1
+4154343754	125	113	Frings	36	neu
+3239623373	66	763	Fried Pickles	0	neg
+6177203663	213	878	Chicken Marsala	71	pos
+3102899910	540	49	Viva Las Pasta	67	pos
+3105529988	226	2214	Green Mango	21	pos
+4159810983	1578	1308	Baklava	22	neg
+3236556566	10	377	Char Siu Pork Chop	18	pos
+4155638841	19	0	Garibaldis	-1	-1
+8572777680	40	51	Cajun Chicken Pizza	77	pos
+2155457005	59	0	Monks	-1	-1
+2126941777	147	625	Fried Green Tomatoes	44	pos
+3105583168	73	33	Garlic Chicken	18	pos
+6173500010	297	651	Southern	-2	-1
+3236633104	68	566	Green Chili Sauce	223	pos
+4157515175	124	109	Green Bean	19	pos
+2129244466	476	606	Nona	18	neu
+4153627733	193	409	Spicy Shrimp Pasta	79	pos
+4157317077	28	739	Tobiko Ponzu	27	neu
+6177780089	7	844	BBQ Chicken Pizza	4	pos
+4156731888	730	385	Martini	-2	-1
+3236633104	620	615	Coco Mango	44	pos
+2122280027	513	279	Short Rib	10	neu
+3105529988	108	622	Crispy Imperial	14	pos
+4153978470	130	218	Chicken Masala	-2	-1
+3105529988	583	976	Blood Orange Sangria	74	neu
+2126941777	989	887	Tres Hombres	16	pos
+2023423535	49	651	Famous Maryland Crab Soup	0	neg
+2154373860	54	599	Ahi	24	pos
+7732769805	15	216	Lilikoi Salmon	9	pos
+4157511283	58	8	Kung Pao Chicken	155	neu
+2155082120	38	201	Chicken Tikka Masala	84	pos
+3236633104	49	101	Southern Thai	-1	-1
+2129244466	461	10	Nona Maria	18	neu
+2127775141	38	13	Tom Yum	7	pos
+4153378537	249	520	Tat-soi	30	pos
+7735257479	106	121	Sesame Chicken	178	pos
+4158313663	149	408	Tofu Gra Prow Krob	26	pos
+4157754216	254	414	Buffalo Chili	-2	-1
+6175239026	763	93	Butternut Squash Ravioli	26	pos
+4154680131	4	140	Archie	-1	-1
+4153453900	950	796	Black Bean Torte	5	neu
+4156731888	481	380	of Prime Rib	-1	-1
+4156261628	207	881	Chai	94	neu
+2155457005	104	898	Thai Curry	26	pos
+7732355538	71	164	Carne Asada	28	pos
+2127225133	153	144	German	-1	-1
+4155631927	52	203	Imperial	37	pos
+4158340344	401	712	Wasabi Garlic Potato Salad	7	pos

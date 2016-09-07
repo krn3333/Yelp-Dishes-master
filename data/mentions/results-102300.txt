@@ -1,0 +1,100 @@
+4159819090	131	239	Tom Yum	53	neg
+4157518211	149	125	Bun	-2	-1
+4156482958	74	89	Puerto Rican	-1	-1
+3104781345	32	508	Chicken Yellow Curry	7	pos
+4159811950	74	688	Chicken Fried Steak	-2	-1
+2025447426	66	179	Thai	-1	-1
+4159819090	122	334	Thai Iced Teas	44	neu
+4156731888	235	397	Kobe	18	pos
+6175239026	533	415	Frutti Di Mare	15	pos
+2122431400	17	71	Bacon	-2	-1
+4154749332	109	73	MSB	-1	-1
+6174455403	3	43	Dominican	-1	-1
+2025445680	17	0	Reuben	21	neu
+4153627733	127	926	Prime Rib	95	pos
+2123554600	5	135	South Indian	-1	-1
+4159339900	267	588	Burmese	-1	-1
+6172477747	251	509	Caesar	66	neu
+4156686007	118	1265	Oh Jing Uh Boke-Um	32	neu
+3236556566	426	430	Crab Deviled Egg	0	neu
+4159898218	151	171	Sake	-2	-1
+4153468889	20	162	Mongolian Beef	59	pos
+4156262260	85	696	Niman Ranch	-1	-1
+4159315541	674	289	Paneer Tikka Masala	26	neg
+6173407779	46	1330	LA Sports Club	-1	-1
+2126738811	28	444	Salmon	-2	-1
+2023330137	16	601	Mexican	-1	-1
+2126862055	30	580	Greenly Green Roll	45	pos
+2159851838	40	10	Aki Sushi	-1	-1
+3236556566	30	221	Ipswich	4	neu
+2128077400	142	907	Southwestern	-1	-1
+4152527825	560	517	Tonchi Nasu	69	pos
+4152521190	53	8	Sugar Cane Shrimp	-2	-1
+3105583168	93	35	Cuban	-1	-1
+3127141001	80	149	Saganaki	22	pos
+4157317077	155	204	Miso Marinated Black Cod	55	neg
+2127792828	12	650	Mango Chicken	39	neu
+6175365723	301	98	Pesce Zuppa	9	pos
+2122286091	6	1834	Chicken and Guacamole Club Triple Decker	35	pos
+2155467100	124	892	Borrega	12	pos
+2026673505	136	129	Ka Pow Jae	58	pos
+2026294355	168	62	Japanese	-1	-1
+2022896188	25	19	Southern	-1	-1
+4156611313	48	955	Spanish	-1	-1
+2125851818	78	0	Modern Mexican	-1	-1
+2155457005	583	1281	Salmon Framboise	40	neu
+2026671601	146	666	Grey	-2	-1
+7738628500	263	147	Spicy Tuna Roll	-2	-1
+4157591155	53	77	American Paradise Pizza	68	neu
+4155631927	33	2355	Imperial Roll	-2	-1
+2129950242	227	68	Grilled Octopus	17	neu
+2125298600	113	876	Cigrons Amb Botifarra Negra	32	pos
+4152527825	619	225	Hangetsu	63	neu
+4155437673	669	786	Quattro al Forno	59	pos
+6173676711	52	78	La Famiglia Giorgios	-1	-1
+4152176888	125	181	Pho	-2	-1
+2138910900	19	338	Water Grill Clam Chowder Weiser Farm	-2	-1
+2125312221	96	119	Lasagna Fatta	19	neu
+3105529988	365	1462	Grilled Kumquat Chicken	33	neu
+3236633104	372	734	Curry	-2	-1
+3122432888	4	646	Tortelli al Tartufo	15	neu
+2122299177	119	741	Francese Chicken Breast	45	neu
+4154344634	532	0	Kim	-1	-1
+3236633104	567	1312	Tom Kha	30	pos
+2126941777	612	38	Syracuse	-1	-1
+4159810983	940	3285	GREEK	-1	-1
+2127306706	99	29	Alfredo	-2	-1
+4158293634	115	4	Lobster Roll	15	pos
+4156731888	103	319	Caesar Salad	12	neu
+2155457005	356	598	St. Bernardus	-2	-1
+4152968228	47	130	Kung Pao Chicken	328	neu
+4153877091	167	726	Calamari	-2	-1
+2129950242	82	1000	Rosemary	-1	-1
+7735282883	15	287	Taste of Cuba	5	pos
+2157324790	10	1399	California Roll	-2	-1
+4158293634	16	799	Naked Lobster Roll	15	neu
+2155457005	513	200	Monks	-1	-1
+2028228783	1277	746	English	-1	-1
+2126941777	430	47	BBQ Korean Beef Ribs	22	pos
+2155677003	1	11	Singapore Mei Fun	102	pos
+6175239026	424	130	Butternut Squash Ravioli	26	pos
+2123741312	18	53	Chinese	-1	-1
+4156262260	129	388	Fried Noodles and Lemongrass Pork	-2	-1
+2154132290	69	59	Beef Chow Fun	142	neg
+3127829855	144	407	Greek Islands IS	-1	-1
+3236556566	573	171	Kansas City Steak	23	neu
+2156279844	5	378	Yukon Gold	-1	-1
+6173673016	39	300	North End	-1	-1
+4158855180	194	82	Vietnamese	-1	-1
+7738783487	124	441	Red Snapper	73	neu
+3127829855	548	118	Lamb	-2	-1
+6175780089	16	588	Thai Tea	111	pos
+2127536440	0	196	Irish Gaelic Steak	30	neu
+2129244466	165	247	Sicilian	-1	-1
+7735282883	291	462	Cuban Roast Pork	-2	-1
+2024703577	47	497	Sambosa Goshti	-2	-1
+2122858585	99	1623	Foie Gras Sauteed	16	neu
+4159810983	738	757	Baklava	22	neu
+4157886297	27	6	Bistro Salad	3	pos
+4155437673	179	490	Forno	-1	-1
+3127829855	91	583	Family Style	40	neu

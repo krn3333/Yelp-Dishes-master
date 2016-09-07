@@ -1,0 +1,100 @@
+4153986883	3	230	Clay	-1	-1
+6177831268	185	182	Maki	11	neu
+4152527825	587	328	Cha-Ya Roll	12	pos
+4154312526	19	15	Thai	-1	-1
+7732780900	17	929	Parrillada Argentina Para Uno	15	pos
+4156482958	29	303	Puerto Rican	-1	-1
+2027456920	13	1013	Yukon	31	neu
+3239355877	67	172	Chicken Caesar Wrap	-2	-1
+6174455403	27	428	Chicken Broth	28	neu
+4156829980	209	0	House	-2	-1
+4153468889	33	490	Black Mushroom	79	neu
+2029663003	10	385	French	13	pos
+2023477700	0	108	Chicken Tikka	41	neu
+4158855180	127	105	Vietnamese	-1	-1
+2155467100	148	242	Mexican	-1	-1
+2028228783	352	472	Arnold Palmer	104	pos
+4156731888	389	78	Kobe	18	neu
+4159816138	44	44	Chow Fun	21	pos
+3236587851	37	116	Fried Chicken	34	neu
+4156477941	83	303	Swiss	3	neu
+3236633104	691	1826	Southern Thai	-1	-1
+3236556566	46	946	Apple	11	neu
+2126204020	387	4024	New York Times	-1	-1
+6175238862	66	526	Caesar	9	neg
+2126085555	80	257	Chicken Biryani	88	neu
+2122439579	76	939	Soup of	24	neu
+2132738945	98	223	Sicilian	5	pos
+4152527825	660	327	Taku-Sui	66	pos
+7732525687	729	360	Lizano	20	pos
+2132738945	81	1171	Llapingachos con Fritada	15	pos
+4159312777	410	196	Lemon Flax Dressing	17	pos
+3236633104	263	236	Kua Kling	240	pos
+7739890818	73	216	Roong Petch Noodle	43	neu
+2125312221	84	13	Italian	-1	-1
+2122130077	220	1310	Spicy Chili Mushrooms	0	neu
+2129244466	468	42	Nonna Maria	9	neu
+2155677003	1	11	Singapore Mei Fun	102	pos
+3105583168	911	190	Garlic Chicken	18	pos
+4152551303	59	354	Coke	9	neu
+2127652929	85	1148	Chinese	-1	-1
+7738628500	233	3151	Yaki Yaki	22	pos
+3127829855	388	629	Greek Island Special	-2	-1
+4156261628	339	173	Curry	-1	-1
+4153453900	77	419	English	-2	-1
+4154680131	4	140	Archie	-1	-1
+3105529988	95	1275	Grapefruit Jicama Salad	22	neu
+3236633104	642	411	Coco Mango Salad	44	pos
+2128077400	536	1090	New Mexican	13	neu
+4154343754	125	113	Frings	36	pos
+2157519993	4	930	Salmon	13	neu
+2125817100	140	51	RTR	25	neu
+4153978470	116	255	Kashmiri	-2	-1
+2026282222	75	773	Chili	-1	-1
+2122540888	142	292	Moroccan Spiced Chicken	11	neu
+7735282883	198	960	Cuban Style Chicken	14	neu
+7732525687	35	242	Costa Rican Sandwich	20	pos
+4159312777	132	25	Sambazon	65	pos
+4159898218	46	1034	Nigiri	49	neu
+2028228783	352	1010	Prime Rib Dip Sandwich	17	pos
+4155437673	25	82	Chicken Marsala	70	pos
+2028228783	570	207	Southern	-1	-1
+3105529988	160	552	Green Curry	28	neg
+4153627733	127	936	French Dip	95	neu
+7732525687	814	725	Costa Rican Black Bean Rice	0	pos
+2126941777	147	1799	Tres Hombres	-2	-1
+2123390090	19	2195	Naan	71	pos
+3105583168	311	200	Versailles Garlic Chicken	18	pos
+2155457005	164	103	Monks	20	neg
+4156262260	96	368	Imperial Rolls	3	neu
+4158293634	72	278	Shrimp Louie	42	pos
+4157315515	51	1198	Clay Pot	142	neu
+3105529988	624	29	Asian Pear Martini	71	pos
+2123077307	59	1420	Spanish	-1	-1
+4159315541	156	236	Paneer Tikka Masala	26	neu
+2022325030	1	234	Chicken Tikka Masala	43	neu
+8572777680	71	347	Cajun Chicken Pizza	76	pos
+2028228783	397	388	Bacon	27	neu
+3236633104	567	1868	Miang Khum Shrimp	226	pos
+2022325431	130	398	Jaj bil Toma	37	pos
+4157511283	97	66	Mongolian Chicken	32	neu
+3236633104	349	895	Pad See Ew	142	pos
+4153872244	46	3300	Santa Fe Salad	16	neu
+2159831411	2	197	Spring Roll Vermicelli	15	pos
+2155457005	637	391	Flemish Sour Ale	16	pos
+2122532773	46	925	Pan con Tomate	1	pos
+4152825872	104	1339	Tortelloni alla Cardina	11	pos
+3236633104	459	892	Jazz	-1	-1
+4159816138	7	246	Sour Pork House	82	pos
+4156731888	766	716	Prime Rib Executive Cut	22	pos
+7735282883	484	1107	Ropa Vieja	23	pos
+4157754216	97	192	Sloppy Joe	31	pos
+4155517181	267	2198	Thuringer	5	pos
+4156731888	492	44	Foie Gras	25	pos
+2028228783	933	474	Fried Green Tomatoes	35	neu
+4156686007	121	1725	Kim Chee	21	neu
+7735282883	544	2634	Coconut Shrimp	3	pos
+2122659700	346	100	American	-1	-1
+2027977171	323	62	Country Fried Chicken	0	pos
+2023872272	125	494	Queso Fundido con Chorizo	3	neu
+4153978470	65	157	Lamb Curry	45	pos
